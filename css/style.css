@@ -105,7 +105,7 @@ li:hover, li a:hover {
 }
 
 .row3-1 {
-  display-type: inline-block;
+  display: inline-block;
   width: 100%;
   background: #e0e0eb;
   font-size: 1.6em;
